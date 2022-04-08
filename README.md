@@ -15,6 +15,7 @@ Adaptive layout with resolutions:
 - CSS3
 - SCSS(Sass)
 - BEM
+- JS
 
 ## Local development
 ### Dependencies
